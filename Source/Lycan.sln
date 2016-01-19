@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Lycan.Xml", "Lycan.Xml\Lycan.Xml.vbproj", "{D1B97DCC-CBA2-4B26-8EE2-34931AFAF52F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lycan.UI", "Lycan.Console\Lycan.UI.csproj", "{87AD1CF4-676E-4265-8480-CE3478044452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lycan.Core", "Lycan.Core\Lycan.Core.csproj", "{0D583E09-C034-480E-AC64-F9B24762E46F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B97DCC-CBA2-4B26-8EE2-34931AFAF52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B97DCC-CBA2-4B26-8EE2-34931AFAF52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B97DCC-CBA2-4B26-8EE2-34931AFAF52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B97DCC-CBA2-4B26-8EE2-34931AFAF52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AD1CF4-676E-4265-8480-CE3478044452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AD1CF4-676E-4265-8480-CE3478044452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AD1CF4-676E-4265-8480-CE3478044452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AD1CF4-676E-4265-8480-CE3478044452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D583E09-C034-480E-AC64-F9B24762E46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D583E09-C034-480E-AC64-F9B24762E46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D583E09-C034-480E-AC64-F9B24762E46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D583E09-C034-480E-AC64-F9B24762E46F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
